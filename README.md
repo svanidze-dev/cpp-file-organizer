@@ -25,7 +25,7 @@ A fast, lightweight, and colorful command-line tool to automatically organize fi
 When you run the program, you'll see a clean and informative output like this:
 
 
-        FILE ORGANIZER v2.0         
+        FILE ORGANIZER       
          by Svanidze                     
 
 
@@ -97,5 +97,5 @@ g++ -std=c++17 main.cpp -o organizer.exe
 
 ## Author
 
-Svanidze
+**Svanidze**
 GitHub: @svanidze-dev
