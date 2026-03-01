@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.vsidx
+[Bb]in/
+[Oo]bj/
+
+# Executables
+*.exe
+*.log
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
