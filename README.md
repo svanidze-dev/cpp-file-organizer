@@ -59,14 +59,23 @@ FILES BY CATEGORY:
 
 ## Supported File Types
 
-Images: .jpg, .jpeg, .png, .gif, .bmp, .svg, .webp, .ico, .tiff
-Videos: .mp4, .avi, .mkv, .mov, .wmv, .flv, .webm, .m4v, .mpg
-Documents: .pdf, .doc, .docx, .txt, .rtf, .odt, .xls, .xlsx, .ppt, .pptx, .md, .csv
-Archives: .zip, .rar, .7z, .tar, .gz, .bz2, .xz, .iso
-Music: .mp3, .wav, .flac, .aac, .ogg, .m4a, .wma
-Programs: .exe, .msi, .bat, .cmd, .sh
-Code: .py, .cpp, .h, .js, .html, .css, .php, .java, .json
-Torrents: .torrent
+## Supported File Types
+
+**Images:** .jpg, .jpeg, .png, .gif, .bmp, .svg, .webp, .ico, .tiff
+
+**Videos:** .mp4, .avi, .mkv, .mov, .wmv, .flv, .webm, .m4v, .mpg
+
+**Documents:** .pdf, .doc, .docx, .txt, .rtf, .odt, .xls, .xlsx, .ppt, .pptx, .md, .csv
+
+**Archives:** .zip, .rar, .7z, .tar, .gz, .bz2, .xz, .iso
+
+**Music:** .mp3, .wav, .flac, .aac, .ogg, .m4a, .wma
+
+**Programs:** .exe, .msi, .bat, .cmd, .sh
+
+**Code:** .py, .cpp, .h, .js, .html, .css, .php, .java, .json
+
+**Torrents:** .torrent
 
 ## How to Use
 
